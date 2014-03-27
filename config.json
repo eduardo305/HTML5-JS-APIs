@@ -1,7 +1,7 @@
 {
-  "title": "Talk template",
-  "description": "My awesome talk description",
-  "author": "Tiago Garcia",
-  "email": "tgarcia@avenuecode.com",
-  "date": "Feb 11th, 2014"
+  "title": "HTML5 JS APIs",
+  "description": "Introducing WebWorkers and WebSockets",
+  "author": "Eduardo Silva",
+  "email": "esilva@avenuecode.com",
+  "date": "April 1st, 2014"
 }

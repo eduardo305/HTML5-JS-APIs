@@ -4598,7 +4598,7 @@ Reveal.addEventListener('ready', function(event){
   var footer = "";
   footer += "<div class=\"footer\">";
   footer += " <hr \/>";
-  footer += " <div>Talk template<\/div>";
+  footer += " <div>HTML5 JS APIs<\/div>";
   footer += "<\/div>";
   footer += "<img src=\"img\/ac-logo.png\" class=\"ac-logo\" \/>";
 

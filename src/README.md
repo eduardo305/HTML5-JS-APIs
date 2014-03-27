@@ -20,30 +20,27 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Agenda
 
- - The template
-  - Installing
-  - Working
-  - Deploying
- - Your talk
-  - Organization
-  - Content requirements
-  - Communication requirements
-  - The DONT's
-  - Tips
-  - If you are recording
-
-----
-
-## Agenda
-
- - Contributing
- - Learn more
- - Conclusion
- - Assignment
+ - Multithreading in JS
+ - Webworkers vs Websockets
+ - Webworker API
+ - Webworker Live Example
+ - Webworker Limitations
+ - Websockets API
+ - Websockets Limitations
+ - Modernizer
 
 ---
 
-## Prerequisites
+## Multithreading in JS
+
+ - setTimeout, setInterval, 
+ - Timer Congestion
+ - AJAX
+ <img src="img/cover.jpg" class="logo" /><img src="img/cover.jpg" class="logo" />
+
+---
+
+## Webworkers vs Websockets
 
 - Markdown
 - Reveal.js
@@ -51,7 +48,7 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ---
 
-## The template
+## Webworker API
 
 1. The Avenue Code talk template is a responsive, web-based talk template.
 1. This template is based on [Reveal.JS](http://lab.hakim.se/reveal-js).
@@ -62,7 +59,7 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ----
 
-## Setting up your repo
+## Webworker Live Example
 
 1. Sign in on GitHub
 1. Fork the repository <https://github.com/acbr/talk-template>
@@ -72,7 +69,7 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ----
 
-## Building and running
+## Webworker Limitations
 
 1. Install [Node.js](http://nodejs.org/)
 1. Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
@@ -86,9 +83,9 @@ $ grunt
 ```
 1. Open <http://localhost:8000> to view your talk
 
-----
+---
 
-## Working
+## Websockets API
 
 1. Open up *config.json* and fill your talk data such as title, author, email, date and description.
   - That is the *ONLY FILE* you should edit on the project root!
@@ -105,7 +102,7 @@ In order to *call out attention*, ...
 
 ----
 
-## Deploying
+## Websockets Limitations
 
 1. Make sure your build is not breaking.
   - You should see *Done, without errors.* in the terminal.
